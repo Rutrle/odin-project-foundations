@@ -1,0 +1,18 @@
+.bg-pink {
+    background-color: rgb(182, 89, 154) ;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.size-24 {
+    font-size: 24px;
+}
+#bg-green {
+    background-color: rgb(115, 196, 115);
+    font-style: bold;
+}
+
+
+#blue-heading {
+    color: rgb(70, 33, 173);
+    font-size: 36px;
+}
