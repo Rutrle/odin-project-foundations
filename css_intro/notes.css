@@ -1,0 +1,23 @@
+/* multiple selecots*/
+.read,
+.unread {
+  color: white;
+  background-color: black;
+}
+
+.read {
+  /* several unique declarations */
+}
+
+.unread {
+  /* several unique declarations */
+}
+
+/* chaining */
+.subsection.header {
+    color: red;
+  }
+  
+  .subsection#preview {
+    color: blue;
+  }
